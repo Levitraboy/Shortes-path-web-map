@@ -1,3 +1,3 @@
 # shortest_path
 
-Latest versipn of the algorithm and the website in the web branch.
+Latest version of the algorithm and the website in the web branch.
